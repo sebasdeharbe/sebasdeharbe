@@ -10,4 +10,7 @@ I am a student and programmer in object-oriented paradigms, specifically with C 
 Also, I am not only dedicated to software, since a large part of my time is dedicated to hardware technical support, 
 I am the one who can fix anything from a computer to an old toaster.
 
-![Yo ^](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsebasdeharbe&psig=AOvVaw3YoJ8OmazrJ8utaa7eZeiJ&ust=1673638131915000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNi8rYPiwvwCFQAAAAAdAAAAABAS)
+
+<p align="center">
+  <img src="[your_relative_path_here](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsebasdeharbe&psig=AOvVaw3YoJ8OmazrJ8utaa7eZeiJ&ust=1673638131915000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNi8rYPiwvwCFQAAAAAdAAAAABAS)" width="350" title="YO ^">
+</p>
