@@ -9,8 +9,3 @@ Hello to everyone behind a screen reading this, I am Sebastián or "Seba".
 I am a student and programmer in object-oriented paradigms, specifically with C ++ and Java. 
 Also, I am not only dedicated to software, since a large part of my time is dedicated to hardware technical support, 
 I am the one who can fix anything from a computer to an old toaster.
-
-
-<p align="center">
-  <img src="https://pbs.twimg.com/profile_images/1206267511790096385/l0s2_tRz_400x400.jpg" width="350" title="YO ^">
-</p>
