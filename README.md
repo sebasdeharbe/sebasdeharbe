@@ -12,5 +12,5 @@ I am the one who can fix anything from a computer to an old toaster.
 
 
 <p align="center">
-  <img src="[your_relative_path_here](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsebasdeharbe&psig=AOvVaw3YoJ8OmazrJ8utaa7eZeiJ&ust=1673638131915000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNi8rYPiwvwCFQAAAAAdAAAAABAS)" width="350" title="YO ^">
+  <img src="https://pbs.twimg.com/profile_images/1206267511790096385/l0s2_tRz_400x400.jpg" width="350" title="YO ^">
 </p>
